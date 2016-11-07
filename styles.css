@@ -1,0 +1,13 @@
+/* add your CSS here */
+.label{
+	font-weight: bold;
+}
+.box{
+	border: 1px solid #cccccc;
+	padding: 5px;
+	margin: 5px;
+	border-radius: 10px;
+}
+img, h3{
+	margin: 5px;
+}
